@@ -49,6 +49,11 @@
 
 ## Ссылки
 
+Ссылки можно вставлять в списки
+* [duckduckgo](https://duckduckgo.com/)
+* [DuckDuckGo](https://duckduckgo.com/)
+* [Duck Duck Go](https://duckduckgo.com/)
+
 ## Работа с таблицами
 
 ## Цитаты
