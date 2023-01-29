@@ -134,9 +134,29 @@ int main()
 Найдена инструкция по диаграммам для GitHub
 
 ```mermaid
-graph TD;
+graph LR;
     A-->B;
     A-->C;
     B-->D;
     C-->D;
+```
+```mermaid
+gitGraph
+    commit
+    commit
+    branch develop
+    commit
+    commit
+    commit
+    checkout main
+    branch code
+    commit
+    commit
+    commit
+    checkout main
+    commit
+    commit
+    merge develop
+    merge code
+    commit
 ```
