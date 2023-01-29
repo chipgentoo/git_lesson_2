@@ -49,6 +49,17 @@
 
 ## Ссылки
 
+Для добавления ссылок в документ нужно ввести строку:
+\[текст ссылки](url)\
+Например:\
+\[Duck Duck Go](https://duckduckgo.com)
+Результат:\
+[Duck Duck Go](https://duckduckgo.com/)
+
+Можно и просто вставить ссылку.\
+Такая вставка называется автоссылкой.\
+https://duckduckgo.com/
+
 Ссылки можно вставлять в списки
 * [duckduckgo](https://duckduckgo.com/)
 * [DuckDuckGo](https://duckduckgo.com/)
