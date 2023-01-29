@@ -99,4 +99,35 @@ https://duckduckgo.com/
 
 ## Отображение кода
 
+Дляотображения кода в тексте документа в начале стоки вводим три обратных кавычки и имя языка програмирования (```C++).\
+Сам код пишем с новой строки.\
+\`\`\`C++\
+Здесь распологается код\
+\`\`\`
+Результат:\
+```C++
+#include <iostream>
+using namespace std;
+
+int main()
+{
+    int numbers[] = {2,5,13,7,6,4};
+    int size = 6;
+    int sum = 0;
+    int avg = 0;
+    int index = 0;
+
+    while (index < size)
+    {
+        cout << numbers[index] << "\t";
+        sum = sum + numbers[index];
+        index = index + 1; // index++
+    }
+
+    cout << endl << endl;
+    avg = sum / size;
+    cout << "Среднее арифметическое: " << avg << endl;
+    
+}
+```
 ## Заключение
