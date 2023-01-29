@@ -43,9 +43,9 @@
 ## Работа с изображениями
 
 Для вывода изображения его нужно прикрепить:\
-\!\[Привет GitHub](github-mark.jpg)\
+\!\[Привет GitHub](https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png)\
 Пример:\
-![Привет GitHub](github-mark.jpg)
+![Привет GitHub](https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png)
 
 ## Ссылки
 
